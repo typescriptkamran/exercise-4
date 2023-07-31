@@ -2,7 +2,7 @@
 
 // Albert Einstein once said, “A person who never made a mistake never tried anything new.”
 
-// Quid e Azam once sid, “Expect the best, prepare for the worst.”
+// Quid e Azam once said, “Expect the best, prepare for the worst.”
 
 
-console.log('Quid e Azam once sid, “Expect the best, prepare for the worst.”')
+console.log('Quid e Azam once said, “Expect the best, prepare for the worst.”')
